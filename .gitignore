@@ -134,3 +134,7 @@ workspace.code-workspace
 
 # Configuration Files
 config.yaml
+config.yaml.bak
+
+# Log Files
+logs/
