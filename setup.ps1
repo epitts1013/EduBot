@@ -1,7 +1,5 @@
-#!/bin/bash
-
 # create configuration file
-echo "# ~ is placeholder value, replace with your configuration
+Write-Output "# ~ is placeholder value, replace with your configuration
 # Bot
 api_token: ~
 debug_mode: false
